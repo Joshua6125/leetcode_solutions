@@ -12,3 +12,4 @@
 | [0598](https://leetcode.com/problems/range-addition-ii/) | Range Addition II | Easy | C | I should really make sure I check my code before submitting... |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minumin One Bit Operations to make integers zero | Hard | C | 100% on both runtime and memory usage! Very fun too! |
 | [1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Minimum Length of a String after Deleting Similar Ends | Medium | C | Might want to try and reduce memory usage |
+| [2900](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | Longest Unequal Adjacent Groups Subsequence I | Easy | C | Pretty standard. |
