@@ -10,6 +10,7 @@
 | [0396](https://leetcode.com/problems/rotate-function/) | Rotate Function | Medium | Python | This uses FFT rather than Dynamic programming lol (not efficient) |
 | [0416](https://leetcode.com/problems/partition-equal-subset-sum/) | Partition Equal Subset Sum | Medium | C | This one was pretty tough, could try and reduce runtime and memory usage |
 | [0598](https://leetcode.com/problems/range-addition-ii/) | Range Addition II | Easy | C | I should really make sure I check my code before submitting... |
+| [0981](https://leetcode.com/problems/time-based-key-value-store/) | Time Based Key-Value Store | Medium | C | Could add a hashmap to increase lookup times |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minumin One Bit Operations to make integers zero | Hard | C | 100% on both runtime and memory usage! Very fun too! |
 | [1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Minimum Length of a String after Deleting Similar Ends | Medium | C | Might want to try and reduce memory usage |
 | [2900](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | Longest Unequal Adjacent Groups Subsequence I | Easy | C | Pretty standard. |
